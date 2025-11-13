@@ -4,3 +4,4 @@ scikit-learn
 streamlit
 joblib
 pytest
+pip install -r requirements.txt
