@@ -1,1 +1,1 @@
-# Diabetes-Prediction-using-Predictive-Analysis
+# Diabetes-Prediction-using-Predictive-Analytics
